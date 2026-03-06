@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Katsuya!
 
-<!--
-**katsu0511/katsu0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with 3+ years of experience specializing in Java and Spring Boot.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java, TypeScript, JavaScript, Kotlin, Swift, Python, SQL
+- **Frameworks**: Spring Boot, React, Next.js
+- **Tools**: Git, GitHub Actions, Docker, AWS, MySQL, PostgreSQL
+
+## Projects
+
+### [Hac Book Web](https://github.com/katsu0511/hac_book_web)
+This is the frontend application for a personal household accounting system. Users can record incomes and expenses, manage categories, and view summaries through a clean and responsive UI.
+
+### [Hac Book API](https://github.com/katsu0511/hac_book_api)
+This is the backend API for a personal household accounting application. It provides features for managing incomes and expenses, categories, and summary dashboards for each user.
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/katsuya-harada-profile/)
