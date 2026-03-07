@@ -1,6 +1,6 @@
-# Hello, I'm Katsuya!
+# Hello, I'm Katsuya!🙂
 
-I'm a software developer with 3+ years of experience specializing in Java and Spring Boot.
+I'm a software developer with 3+ years of experience specializing in Java and Spring Boot, based in Vancouver, Canada🇨🇦
 
 ## Skills
 
