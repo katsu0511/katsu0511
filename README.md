@@ -4,9 +4,26 @@ I'm a software developer with 3+ years of experience specializing in Java and Sp
 
 ## Skills
 
-- **Languages**: Java, TypeScript, JavaScript, Kotlin, Swift, Python, SQL
-- **Frameworks**: Spring Boot, React, Next.js
-- **Tools**: Git, GitHub Actions, Docker, AWS, MySQL, PostgreSQL
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/-Spring&nbsp;Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind&nbsp;CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Spring Security](https://img.shields.io/badge/-Spring&nbsp;Security-6DB33F?logo=springsecurity&logoColor=white&style=for-the-badge)
+![JUnit5](https://img.shields.io/badge/-JUnit5-25A162?logo=junit5&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub&nbsp;Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge)
+![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-FF6A00?logoColor=white&style=for-the-badge)
 
 ## Projects
 
